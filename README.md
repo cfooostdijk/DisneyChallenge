@@ -1,1 +1,1 @@
-Disney API Challengue for Alkemy's RoR Bootcamp
+Disney API Challenge for Alkemy's RoR Bootcamp
